@@ -9,4 +9,4 @@ namespace: demo-dev
 
 replicas:
   - name: demo
-    count: 3
+    count: 2
